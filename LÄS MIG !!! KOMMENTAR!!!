@@ -1,0 +1,18 @@
+Jag var klar innan 24:00 fredag, men kunde inte lämna in då det inte fanns en inlämningsmapp.
+
+Jag behövde hjälp med att skapa sökfunktionen, men lyckades med hjälp av en guide på internet,
+dock så vet jag itne om den inkluderar skydd mot exempelvis XSS, så om jag kan få prata med dig om det
+antingen på en lektion eller via hangout vore det bra. 
+
+Media query är främst anpassat för "Startsidan", "Om oss" och "Kontakta oss",
+men på de resterande sidorna anpassas den även, dock så är det inte 100% korrekt på resten.
+
+Notera att filen som heter Ekonomikontoret.html är Home. Sidan inkluderar en sidan för varje
+sak på sidan - ungefär 7 sidor. Jag har ingnorerat inloggning eftersom att jag inte har kunskaperna
+för det samt att det känns onödigt för denna uppgift.
+
+Om det finns någonting du tycker saknas eller kan förbättras skicka ett meddelande så kan jag fixa det.
+
+Sökfunktionen var först menad att vara i navbaren, men jag bytte sedan design på navbaren så det passade
+inte längre. därför fick det bli längre ner på home. Det är därför den är på ett sånt ställe. Jag antar 
+att det ser bra ut, men det är ett lite kontigt ställe
